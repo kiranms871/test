@@ -1,5 +1,5 @@
 
-main(){
+void main(){
 factorial();
 big();
 }
