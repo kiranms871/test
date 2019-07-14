@@ -1,0 +1,5 @@
+void main()
+{
+  bigg();
+  fact();
+}
