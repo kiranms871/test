@@ -5,4 +5,4 @@ main.o:main.c
 fact.o:fact.c
 	gcc -c fact.c
 big.o:big.c
-	gcc -c gig.c
+	gcc -c big.c
