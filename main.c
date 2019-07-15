@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main()
 {
-fact()
-big()
+fact();
+big();
 }
